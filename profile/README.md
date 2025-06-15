@@ -19,9 +19,8 @@ Whether you’re a developer, designer, or animal-lover, there are plenty of way
 
 ## 📬 Official Contacts:
 
-- 🌐 Website: https://careproject.cy/  
+- 🌐 Website: https://careproject.cy  
 - ✉️ Email: info@uanafoundation.com  
-- 💬 Facebook: [fb.com/CAREProjectCyprus](https://www.facebook.com/careproject.cy)
+- 💬 Facebook: [facebook.com/careproject.cy](https://www.facebook.com/careproject.cy)
 - 🔗 LinkedIn: https://www.linkedin.com/company/uana-foundation/
 - 📢 Instagram: [uana.cy](https://www.instagram.com/uana.cy/) and [dog_adoption_cyprus](https://www.instagram.com/dog_adoption_cyprus/)  
-
