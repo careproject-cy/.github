@@ -2,10 +2,9 @@
 
 CARE Project is a 100% volunteer-run initiative dedicated to improving the lives of stray and shelter-bound dogs across Cyprus. We partner with municipal shelters, local veterinarians, and international adopters to provide:
 
-- **Rescue & Medical Care** – Emergency response, vaccinations, spay/neuter, surgeries and rehabilitation  
+- **Rescue & Medical Care** – Regular veterinary care, vaccinations, spay/neuter, surgeries and rehabilitation  
 - **Socialization & Training** – Daily walks, behavior assessment, and foster-based socialization  
 - **Adoption & Fostering** – Matching dogs with loving homes locally and through partner organizations in the UK, Germany & the Netherlands  
-- **Data & Outreach Tools** – Building dashboards, volunteer coordination apps, and educational resources to streamline rescue efforts
 
 ## 🤝 How to Get Involved
 
